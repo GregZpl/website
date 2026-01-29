@@ -35,14 +35,13 @@ export default function Services() {
     <main className="min-h-screen bg-background text-foreground">
       <div className="bg-noise">
         <div className="mx-auto w-full max-w-6xl px-5 py-14 sm:px-8 sm:py-18">
-          <Link href="/">
-            <a
-              data-testid="link-services-back"
-              className="inline-flex items-center gap-2 text-sm text-muted-foreground transition hover:text-foreground"
-            >
-              <ArrowLeft className="h-4 w-4" />
-              Back
-            </a>
+          <Link
+            href="/"
+            data-testid="link-services-back"
+            className="inline-flex items-center gap-2 text-sm text-muted-foreground transition hover:text-foreground"
+          >
+            <ArrowLeft className="h-4 w-4" />
+            Back
           </Link>
 
           <div className="mt-8 flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">

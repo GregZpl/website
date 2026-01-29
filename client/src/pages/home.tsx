@@ -87,50 +87,45 @@ function Nav() {
     <header className="sticky top-0 z-40 -mx-5 sm:-mx-8">
       <div className="border-b border-border/60 bg-background/65 backdrop-blur-xl">
         <div className="mx-auto flex max-w-6xl items-center justify-between px-5 py-4 sm:px-8">
-          <Link href="/">
-            <a
-              data-testid="link-home"
-              className="group inline-flex items-center gap-2 rounded-full px-2 py-1 text-sm font-medium text-foreground/90 transition hover:text-foreground"
-            >
-              <span className="relative grid h-6 w-6 place-items-center rounded-full border border-border/70 bg-card shadow-sm">
-                <span className="h-2 w-2 rounded-full bg-primary/90" />
-              </span>
-              <span className="tracking-tight">Greg</span>
-            </a>
+          <Link
+            href="/"
+            data-testid="link-home"
+            className="group inline-flex items-center gap-2 rounded-full px-2 py-1 text-sm font-medium text-foreground/90 transition hover:text-foreground"
+          >
+            <span className="relative grid h-6 w-6 place-items-center rounded-full border border-border/70 bg-card shadow-sm">
+              <span className="h-2 w-2 rounded-full bg-primary/90" />
+            </span>
+            <span className="tracking-tight">Greg</span>
           </Link>
 
           <nav className="hidden items-center gap-6 text-sm text-muted-foreground sm:flex">
-            <Link href="/about">
-              <a
-                data-testid="link-nav-about"
-                className="transition hover:text-foreground"
-              >
-                About
-              </a>
+            <Link
+              href="/about"
+              data-testid="link-nav-about"
+              className="transition hover:text-foreground"
+            >
+              About
             </Link>
-            <Link href="/portfolio">
-              <a
-                data-testid="link-nav-portfolio"
-                className="transition hover:text-foreground"
-              >
-                Portfolio
-              </a>
+            <Link
+              href="/portfolio"
+              data-testid="link-nav-portfolio"
+              className="transition hover:text-foreground"
+            >
+              Portfolio
             </Link>
-            <Link href="/services">
-              <a
-                data-testid="link-nav-services"
-                className="transition hover:text-foreground"
-              >
-                Services
-              </a>
+            <Link
+              href="/services"
+              data-testid="link-nav-services"
+              className="transition hover:text-foreground"
+            >
+              Services
             </Link>
-            <Link href="/contact">
-              <a
-                data-testid="link-nav-contact"
-                className="transition hover:text-foreground"
-              >
-                Contact
-              </a>
+            <Link
+              href="/contact"
+              data-testid="link-nav-contact"
+              className="transition hover:text-foreground"
+            >
+              Contact
             </Link>
           </nav>
 
