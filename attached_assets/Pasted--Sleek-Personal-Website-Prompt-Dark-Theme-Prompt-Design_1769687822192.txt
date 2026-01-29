@@ -1,0 +1,139 @@
+🖤 Sleek Personal Website Prompt (Dark Theme)
+Prompt:
+
+Design a dark-themed, modern personal website for a web designer/developer whose goal is to sell high-quality websites.
+
+The site should feel sleek, calm, confident, and personal, not corporate. Minimal, but warm. Premium without being flashy.
+
+Brand & Personality
+Name: [Greg]
+
+Title: Web Designer & Developer
+
+Vibe: intentional, thoughtful, trustworthy
+
+Tone: short sentences, human language, no buzzwords
+
+Audience: founders, creatives, small businesses who want a website that feels right
+
+Design Direction
+Dark background (charcoal / near-black, not pure black)
+
+Soft contrast text (off-white, muted grays)
+
+One subtle accent color (muted blue, green, or purple)
+
+Clean sans-serif font
+
+Large spacing, breathing room
+
+Smooth, subtle animations only
+
+Everything should feel quietly confident
+
+Pages
+1. Home
+Full-screen hero section
+
+Headline with my name:
+“I’m [Greg]. I design websites that feel intentional.”
+
+Short subtext (1–2 lines max):
+Clean, fast websites built to help people trust your business.
+
+One strong CTA button: Work With Me
+
+Short “philosophy” section:
+
+Simple copy about clarity, usability, and intention
+
+Why less is more
+
+Minimal portfolio preview (2–3 projects)
+
+Dark cards, hover reveals details
+
+2. About
+Personal intro written in first person
+
+Why I care about design and the web
+
+Focus on intention, problem-solving, and simplicity
+
+Keep it human, not salesy
+
+Example tone:
+I don’t believe good websites need to be loud. They need to be clear.
+
+3. Portfolio
+Dark, minimal grid
+
+Each project includes:
+
+Project name
+
+One-sentence explanation
+
+Clean mockup
+
+Emphasis on quality, not quantity
+
+4. Services
+Clear, simple offerings:
+
+Website Design
+
+Website Development
+
+Redesigns
+
+Landing Pages
+
+Explain benefits, not tools
+
+Optional “Starting at” pricing
+
+Short copy that reassures and removes friction
+
+5. Contact / Work With Me
+Very minimal layout
+
+Short intro text:
+If you want a website that feels right, let’s talk.
+
+Simple contact form
+
+Reassure fast replies and clear communication
+
+Final Goal
+The website should feel like:
+“This person is thoughtful. Calm. Skilled. I trust them.”
+
+Avoid:
+
+Buzzwords
+
+Loud colors
+
+Over-explaining
+
+Anything that feels generic
+
+🔥 Extra sauce (optional but powerful)
+Add a subtle cursor hover effect
+
+Animate text slightly on scroll (very light)
+
+Use real, honest copy — even if it’s short
+
+Fewer words = more confidence
+
+If you want, next I can:
+
+Write your actual homepage headline + about copy
+
+Help you choose a dark color palette
+
+Help you design portfolio projects even if they’re concepts
+
+Turn this into a Framer/Webflow-specific prompt
