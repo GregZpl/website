@@ -636,7 +636,7 @@ function ContactSection() {
               <div>
                 <p className="text-xs text-muted-foreground">Email</p>
                 <p data-testid="text-contact-email" className="mt-1 text-foreground/90">
-                  greg@yourdomain.com
+                  hello@gregwebsites.co.uk
                 </p>
               </div>
             </div>
@@ -648,7 +648,7 @@ function ContactSection() {
               <div>
                 <p className="text-xs text-muted-foreground">Location</p>
                 <p data-testid="text-contact-location" className="mt-1 text-foreground/90">
-                  Your city
+                  Middlesbrough, UK
                 </p>
               </div>
             </div>
