@@ -624,7 +624,7 @@ function ContactSection() {
             data-testid="text-contact-side-body"
             className="mt-3 text-sm leading-relaxed text-muted-foreground"
           >
-            Whether you\u2019re starting from scratch or refreshing an old site, I\u2019d love
+            Whether you're starting from scratch or refreshing an old site, I'd love
             to hear about it.
           </p>
 
@@ -636,7 +636,7 @@ function ContactSection() {
               <div>
                 <p className="text-xs text-muted-foreground">Email</p>
                 <p data-testid="text-contact-email" className="mt-1 text-foreground/90">
-                  hello@gregwebsites.co.uk
+                  gregpiatekbusiness@gmail.com
                 </p>
               </div>
             </div>
@@ -760,7 +760,7 @@ export default function Home() {
     {
       id: "premium",
       name: "Premium",
-      price: "$1,500",
+      price: "$£1,500",
       blurb: "Complete solution with advanced booking and payments.",
       bullets: [
         "Everything in Business",
